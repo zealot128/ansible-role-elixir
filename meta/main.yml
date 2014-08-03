@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Stefan Wienert
-  description:
+  description: install the Elixir programming language and latest Erlang
   # company: your company (optional)
   # Some suggested licenses:
   # - BSD (default)
