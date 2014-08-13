@@ -18,7 +18,7 @@ Role Variables
 There is only 1 variable now:
 
 ```yaml
-elixir_version: 0.14.2
+elixir_version: 0.15.0
 ```
 
 

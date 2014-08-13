@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Stefan Wienert
-  description:
+  description: install the Elixir programming language and latest Erlang
   # company: your company (optional)
   # Some suggested licenses:
   # - BSD (default)
@@ -101,7 +101,9 @@ galaxy_info:
   # Below are all categories currently available. Just as with
   # the platforms above, uncomment those that apply to your role.
   #
-  #categories:
+  categories:
+  - system
+  - development
   #- cloud
   #- cloud:ec2
   #- cloud:gce
@@ -110,11 +112,9 @@ galaxy_info:
   #- database
   #- database:nosql
   #- database:sql
-  #- development
   #- monitoring
   #- networking
   #- packaging
-  #- system
   #- web
 dependencies: []
   # List your role dependencies here, one per line. Only
